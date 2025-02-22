@@ -110,7 +110,7 @@ Ao finalizar, o sistema fornecerá:
 
 Desenvolvido por **Maicon Bartoski**. Para feedback ou melhorias:
 
-- **Contact**: [contato@maiconbartoski.com]
+- **Contact**: contato@maiconbartoski.com
 - **Issues**: Abra uma solicitação no repositório.
 
 ---
